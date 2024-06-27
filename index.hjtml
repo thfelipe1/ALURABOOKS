@@ -1,0 +1,10 @@
+2° postagem
+    @import url("/style/header.css");
+    :root{
+    --cor-de-fundo: #ebeeed;
+    --branco:#FFFFFF;
+    }
+   
+    body {
+        background-color: var(--cor-de-fundo);
+    }
